@@ -1,5 +1,14 @@
 # Prompts do Agente
 
+> [!TIP]
+> **Prompt usado para esta etapa:**
+> Crie um system prompt para um agente chamado [Edu], [Uso da base de conhecimento]. Regras:
+> [Listar as regras do seu Agente]
+> 
+> Inclua 3 exemplos de interação e 2 edge cases.
+>
+> [cole o template 03-prompts.md]
+
 ## System Prompt
 
 ```
