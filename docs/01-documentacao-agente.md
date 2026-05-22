@@ -69,7 +69,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | [Streamlit](https://streamlit.io/) |
-| LLM | Ollama (local) |
+| LLM | Google AI Studio — gemini-2.5-flash (Substituiu o Ollama/Llama3.1 local) | 
 | Base de Conhecimento | JSON/CSV mockados na pasta `data` |
 
 
